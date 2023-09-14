@@ -1,0 +1,6 @@
+14/09/2023 11:12:18-http://www.alura.com.br- online:true
+14/09/2023 11:12:19-http://www.caelum.com.br- online:true
+14/09/2023 11:12:19-https://httpstat.us/Random/200,201,500-504- online:false
+14/09/2023 11:12:21-http://www.alura.com.br- online:true
+14/09/2023 11:12:22-http://www.caelum.com.br- online:true
+14/09/2023 11:12:23-https://httpstat.us/Random/200,201,500-504- online:true
